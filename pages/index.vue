@@ -9,7 +9,7 @@ console.log(todos);
 function addData(){
   try {
     addDoc(models, {
-        name: 'Prise de la Bastille'
+        name: 'Prise de la Bastill'
       });
 
    } catch (error) {
